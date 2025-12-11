@@ -113,7 +113,4 @@ ruta = clf.guardar_modelo("mi_modelo_clasificacion")
 # clf.cargar_modelo(ruta)
 ```
 
-```
 
-¿Qué te parece este `README`? ¿Quieres que añada alguna sección o modifique algo en particular?
-```
